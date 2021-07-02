@@ -11,7 +11,8 @@ namespace NthUnitTesting
             //TemperatureConversion.Conversion();
             //MonthlyPayments.ReadInput();
             //NewtonSquareRoot.ReadInput();
-            DecimalToBinary.ReadInput();
+            //DecimalToBinary.ReadInput();
+            SwappingNibble.ReadInput();
             Console.ReadLine();
 
         }
