@@ -8,7 +8,9 @@ namespace NthUnitTesting
         {
             //VendingMachine.PrintingNotes();
             // DayOfWeek.ReadInput();
-            TemperatureConversion.Conversion();
+            //TemperatureConversion.Conversion();
+            MonthlyPayments.ReadInput();
+            Console.ReadLine();
 
         }
 }
