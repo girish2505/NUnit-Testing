@@ -7,7 +7,8 @@ namespace NthUnitTesting
         static void Main(string[] args)
         {
             //VendingMachine.PrintingNotes();
-            DayOfWeek.ReadInput();
+            // DayOfWeek.ReadInput();
+            TemperatureConversion.Conversion();
 
         }
 }
