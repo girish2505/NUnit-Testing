@@ -10,7 +10,8 @@ namespace NthUnitTesting
             // DayOfWeek.ReadInput();
             //TemperatureConversion.Conversion();
             //MonthlyPayments.ReadInput();
-            NewtonSquareRoot.ReadInput();
+            //NewtonSquareRoot.ReadInput();
+            DecimalToBinary.ReadInput();
             Console.ReadLine();
 
         }
