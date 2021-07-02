@@ -6,7 +6,8 @@ namespace NthUnitTesting
     {
         static void Main(string[] args)
         {
-            VendingMachine.PrintingNotes();
+            //VendingMachine.PrintingNotes();
+            DayOfWeek.ReadInput();
 
         }
 }

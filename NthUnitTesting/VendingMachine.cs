@@ -14,7 +14,7 @@ namespace NthUnitTesting
         }
         private static void MinNotes(int amount)
         {
-            int[] notes = { 2000, 1000, 500, 100, 50, 10, 5, 2, 1 };
+            int[] notes = { 2000, 1000, 500, 100, 50, 20, 10, 5, 2, 1 };
             int[] notecount = new int[notes.Length];
 
             for (int i = 0; i < notes.Length; i++)
